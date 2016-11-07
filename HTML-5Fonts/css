@@ -1,1 +1,137 @@
 
+body{
+font-family: "Courier";
+text-align: center;
+
+background: #fff;
+  width: 90%;
+max-width: 60em;
+margin: 0 auto;
+
+  
+}
+border{
+  width: 90%;
+max-width: 60em;
+margin: 0 auto;
+word-break: break-all;
+}
+#styles-weights ul
+{
+  padding-left:0;
+}
+#styles-weights li {
+	padding: .25em;
+  font-size:5em;
+  list-style: none;
+}
+
+}
+a{
+
+text-decoration:none;
+color:black;
+}
+
+header {
+font-size:100px;
+text-decoration:underline;
+}
+hr{
+border:dotted;
+  margin:0;
+2px;
+}
+
+.edit-me {
+	display: block;
+	color: #333;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin: -1em 0 1.5em 0;
+}
+section.border{
+font-size:20px;
+}
+h4{
+font-size: 30px;
+
+}
+
+nav.inline{
+  
+}
+nav.inline li{
+  text-align:center;
+  display:inline;
+  padding:1em;
+  
+}
+nav. inline a {
+padding:1em;
+  display: inline-block;
+  
+}
+
+
+nav ul{
+  list-style: none;
+  padding-left:0;
+}
+nav li{
+  padding:.5em 0 ;
+  
+  
+}
+
+a{
+  color:#000;
+  text-decoration: none;
+  
+}
+img {
+
+	max-width: 35%;
+	height: auto;
+  padding: 1em
+  
+}
+
+p{
+  padding-left: 5em;
+  padding-right: 5em;
+}
+/*pseudoclass*/
+a:hover{
+padding-bottom:.01em;
+border-bottom: 2px dashed #000;
+background:#000;
+  color:#fff;
+}
+section:target{
+  background:#000;
+  color:#fff;
+  transition:background 1s linear;
+
+}
+section:target h2{
+  background:fff
+}
+
+
+a:focus{
+padding-bottom:.01em;
+border-bottom: 2px dashed #000;
+background:#000;
+color:#fff;        
+}
+/*pseudoelement (::)*/
+::selection{
+  
+  background:#000;
+  color:#fff;
+}
+.Courier{
+  font-size:1.5em;
+  
+}
