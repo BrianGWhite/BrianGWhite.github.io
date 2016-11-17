@@ -7,35 +7,35 @@ margin: auto;
 #boxer .facewrinkletop{
    width: 3em;
 height: .1em;
-background:#dcc; 
+background:#dcc;
   border-radius:15%;
   top:1.5em;
   left:1.5em;
   position:absolute;
-  font-size:400%; 
+  font-size:400%;
 }
 #boxer .facewrinkle{
    width: 5em;
 height: .1em;
-background:#dcc; 
+background:#dcc;
   border-radius:15%;
   top:2.3em;
   left:.5em;
   position:absolute;
-  font-size:400%; 
+  font-size:400%;
 }
 #boxer .dome4head{
   font-size:400%;
 width: 6em;
 height: 6em;
   border-radius:50%;
-background:#fee; 
+background:#fee;
 }
 #boxer .square4head{
 
 width: 6em;
 height: 6em;
-background:#999; 
+background:#999;
   border-radius:10%;
   top:3em;
   position:absolute;
@@ -46,7 +46,7 @@ background:#999;
 width: 6em;
 height: 2em;
   border-radius:50%;
-background:#999; 
+background:#999;
   position:absolute;
   top:7.5em;
     font-size:400%;
@@ -55,7 +55,7 @@ background:#999;
 width: 4em;
 height: 3em;
   border-radius:50%;
-background:#999; 
+background:#999;
   position:absolute;
   top:7.7em;
   left:1em;
@@ -65,7 +65,7 @@ background:#999;
 width: .1em;
 height: .5em;
   border-radius:50%;
-background:#555; 
+background:#555;
   position:absolute;
   top:10em;
   left:3em;
@@ -75,7 +75,7 @@ background:#555;
 width: 2em;
 height: 1.5em;
   border-radius:50%;
-background:#fdd; 
+background:#fdd;
 position:absolute;
   top:3.5em;
   left:-.5em;
@@ -85,7 +85,7 @@ position:absolute;
 width: 2em;
 height: 1.5em;
   border-radius:50%;
-background:#fdd; 
+background:#fdd;
 position:absolute;
   top:3.5em;
   left:4.5em;
@@ -95,7 +95,7 @@ position:absolute;
   width: 2em;
 height: 3em;
   border-radius:50%;
-background:#fbb; 
+background:#fbb;
 position:absolute;
   top:3em;
   left:2em;
@@ -106,7 +106,7 @@ position:absolute;
   width: 2em;
 height: 1em;
   border-radius:50%;
-background:#fbb; 
+background:#fbb;
 position:absolute;
   top:5.5em;
   left:2em;
@@ -115,14 +115,16 @@ position:absolute;
 #boxer .blooddribble{
   width: .5em;
 height: 1em;
-background:#900; 
+background:#900;
   border-radius:10%;
-  top:3,5em;
+  top:6em;
   left:3em;
   position:absolute;
   font-size:400%;
 
 }
+
+
 #boxer .mustachecenter{
   font-size:400%;
 width:2em;
@@ -133,7 +135,7 @@ border-bottom:1em solid #555;
 border-top:2em;
   top:6em;
   left:0;
-position:absolute; 
+position:absolute;
 }
 #boxer .mustacheleft{
   font-size:200%;
@@ -145,7 +147,7 @@ border-bottom:.8em solid #555;
 border-top:.5em;
   top:13.8em;
   left:-1.9em;
-position:absolute; 
+position:absolute;
   transform:rotate(36deg);
 }
 #boxer .mustacheright{
@@ -158,7 +160,7 @@ border-bottom:.8em solid #555;
 border-top:.5em;
   top:13.8em;
   left:9em;
-position:absolute; 
+position:absolute;
   transform:rotate(152deg);
 }
 
@@ -167,7 +169,7 @@ position:absolute;
 width: 1.5em;
 height: .25em;
   border-radius:50%;
-background:#444; 
+background:#444;
 position:absolute;
   top:2.9em;
   left:.5em;
@@ -178,7 +180,7 @@ position:absolute;
 width: 1.5em;
 height: .25em;
   border-radius:50%;
-background:#444; 
+background:#444;
 position:absolute;
   top:2.9em;
   left:4em;
@@ -189,22 +191,18 @@ position:absolute;
 width: 2em;
 height: .5em;
   border-radius:50%;
-background:#606; 
+background:#606;
 position:absolute;
   top:2.8em;
   left:.3em;
   font-size:400%;
   z-index:1;
-background: linear-gradient(-7deg, rgb(53, 8, 52), rgb(255, 218, 190));
-  background: -webkit-linear-gradient(-7deg, rgb(53, 8, 52), rgb(255, 218, 190));
-}
-}
 }
 #boxer .browright{
 width: 2em;
 height: .5em;
   border-radius:50%;
-background:#fdd; 
+background:#fdd;
 position:absolute;
   top:2.8em;
   left:3.8em;
@@ -215,7 +213,7 @@ position:absolute;
   width: .5em;
 height: .5em;
   border-radius:50%;
-background:#000; 
+background:#000;
 position:absolute;
   top:3.3em;
   left:1em;
@@ -226,7 +224,7 @@ position:absolute;
   width: .5em;
 height: .5em;
   border-radius:50%;
-background:#555; 
+background:#555;
 position:absolute;
   top:3.3em;
   left:4.5em;
@@ -237,7 +235,7 @@ position:absolute;
   width: 1.5em;
 height: 1em;
   border-radius:50%;
-background:#ee0; 
+background:#ee0;
 position:absolute;
   top:3em;
   left:4em;
@@ -247,7 +245,7 @@ position:absolute;
   width: 1.5em;
 height: 1em;
   border-radius:50%;
-background:#e50; 
+background:#e50;
 position:absolute;
   top:3em;
   left:.5em;
@@ -257,20 +255,17 @@ position:absolute;
     width: 1.5em;
 height: 1em;
   border-radius:50%;
-background:#606; 
+background:#606;
 position:absolute;
   top:3.2em;
   left:.3em;
   font-size:400%;
- background: linear-gradient(29deg, rgb(53, 8, 52), rgb(255, 218, 190));
-  background: -webkit-linear-gradient(29deg, rgb(53, 8, 52), rgb(255, 218, 190));
-
 }
 #boxer .eyeshadowright{
     width: 1.5em;
 height: 1em;
   border-radius:50%;
-background:#dcc; 
+background:#dcc;
 position:absolute;
   top:3.2em;
   left:4.3em;
@@ -279,38 +274,129 @@ position:absolute;
 #boxer .mouth{
  width: 5em;
 height: 1em;
-background:#000; 
+background:#000;
   top:7em;
   left:.5em;
   position:absolute;
-  font-size:400%; 
+  font-size:400%;
 }
 #boxer .teethtop{
  width: 5em;
 height: .35em;
-background:#f00; 
+background:#f00;
   border-radius:15%;
   top:7em;
   left:.5em;
   position:absolute;
-  font-size:400%; 
+  font-size:400%;
 }
 #boxer .teethbottom{
  width: 5em;
 height: .4em;
-background:#f00; 
+background:#f00;
   border-radius:15%;
   top:7.6em;
   left:.5em;
   position:absolute;
-  font-size:400%; 
-}#boxer .teethblood{
+  font-size:400%;
+}
+#boxer .teethblood{
  width: 1em;
 height: 2em;
-background:#c00; 
+background:#c00;
   top:8em;
   left:2em;
   position:absolute;
-  font-size:400%; 
+  font-size:400%;
   z-index:1;
+}
+#boxer .blooddrip1{
+width: .5em;
+height: .5em;
+  border-radius:50%;
+background:#c00;
+  position:absolute;
+  top:9em;
+  left:2em;
+    font-size:400%;
+z-index:3;
+ animation:move .5s infinite;
+}
+#boxer .blooddrip2{
+width: .5em;
+height: .5em;
+  border-radius:50%;
+background:#c00;
+  position:absolute;
+  top:9em;
+  left:2.5em;
+    font-size:400%;
+z-index:3;
+animation:move 1s infinite;
+}
+
+#boxer .blooddrip3{
+width: .5em;
+height: .5em;
+  border-radius:50%;
+background:#c00;
+  position:absolute;
+  top:9em;
+  left:2.3em;
+    font-size:400%;
+z-index:3;
+animation:move .2s infinite;
+}
+
+#boxer .blooddrip4{
+width: .5em;
+height: .5em;
+  border-radius:50%;
+background:#c00;
+  position:absolute;
+  top:9em;
+  left:2.1em;
+    font-size:400%;
+z-index:3;
+animation:move .8s infinite;
+}
+#boxer .teethbloodbottom{
+  width:1em;
+height: 1em;
+  border-radius:50%;
+background:#c00;
+position:absolute;
+  top:9.5em;
+  left:2em;
+  font-size:400%;
+  z-index:3;
+}
+
+
+@keyframes move{
+0%{
+top:8em;
+opacity:1;
+}
+25%{
+top:12em;
+opacity:1;
+}
+
+50%{
+top:13em;
+opacity:.6;
+}
+
+75%{
+top:14em;
+opacity:.3;
+}
+
+
+100%{
+top:15em;
+opacity:0;
+}
+
 }
