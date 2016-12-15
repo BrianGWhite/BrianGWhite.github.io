@@ -16,6 +16,9 @@ body{
  font-family:Skinny;
   font-size:200%;
   background:#fff;
+width: 90%;
+max-width: 60em;
+margin: 0 auto;
 }
 img{
 	max-width: 75%;
