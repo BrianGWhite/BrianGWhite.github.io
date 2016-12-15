@@ -1,0 +1,78 @@
+@font-face {
+    font-family: Skinny;
+    src: url('../fonts/skinny-regular-webfont.woff2') format('woff2'),
+         url('../fonts/skinny-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+::selection{
+
+  background:#000;
+  color:#fff;
+}
+
+body{
+ font-family:Skinny;
+  font-size:200%;
+  background:#fff;
+}
+img{
+	max-width: 75%;
+	height: auto;
+  padding: 1em
+
+
+}
+
+#topportion img{
+margin-left: 3em;
+padding:0em;
+transform:rotate(40deg);
+z-axis:-1;
+
+}
+
+.site{
+ text-align:center;
+
+}
+
+
+ul{
+list-style:none;
+
+margin-left:2em;
+}
+
+a{
+  color:black;
+  text-decoration:none;
+}
+
+
+a:hover{
+padding-bottom:.01em;
+border-bottom: 2px dashed #000;
+background:#000;
+  color:#fff;
+}
+section:target{
+  background:#000;
+  color:#fff;
+  transition:background 1s linear;
+
+}
+section:target h2 class{
+  background:fff;
+}
+
+
+a:focus{
+padding-bottom:.01em;
+border-bottom: 2px dashed #000;
+background:#000;
+color:#fff;
+}
+
+
